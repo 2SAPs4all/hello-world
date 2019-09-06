@@ -1,0 +1,6 @@
+Up
+Down
+Top
+Bottom
+Charm
+Strange
